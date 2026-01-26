@@ -1,0 +1,17 @@
+void loop(){
+
+int j=1;
+while(j<=10){
+
+Serial.println=("you are on blink")
+Serial.print(j);
+j=j+1;
+delay(250)
+
+
+}
+
+
+
+
+}
